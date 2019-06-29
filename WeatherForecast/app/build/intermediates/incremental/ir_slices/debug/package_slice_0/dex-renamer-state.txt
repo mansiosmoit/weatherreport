@@ -1,4 +1,0 @@
-#Fri Jun 28 13:51:34 IST 2019
-base.0=/home/osmo/AndroidStudioProjects/WeatherForecast/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
